@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mrs. Mansoorovar's Personal Webpage</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+        }
+        header {
+            background: #50b3a2;
+            color: #fff;
+            padding-top: 30px;
+            min-height: 70px;
+            border-bottom: #2980b9 3px solid;
+        }
+        header h1 {
+            text-align: center;
+            text-transform: uppercase;
+            margin: 0;
+            font-size: 24px;
+        }
+        .content {
+            padding: 20px;
+            background: #fff;
+            margin-top: 20px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+        }
+        footer {
+            background: #50b3a2;
+            color: #fff;
+            text-align: center;
+            padding: 10px 0;
+            margin-top: 20px;
+        }
+        .contact {
+            text-align: center;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Mrs. Mansoorovar</h1>
+            <h2>Housewife</h2>
+        </div>
+    </header>
+    <div class="container">
+        <div class="content">
+            <h2>About Me</h2>
+            <p>Hello! I am Mrs. Mansoorovar, a dedicated housewife with a keen interest in stock marketing. I enjoy learning about market trends and exploring investment opportunities.</p>
+        </div>
+        <div class="contact">
+            <h2>Contact Me</h2>
+            <p>Email: <a href="mailto:manoo.mansoorovar@gmail.com">manoo.mansoorovar@gmail.com</a></p>
+        </div>
+    </div>
+    <footer>
+        <p>&copy; 2024 Mrs. Mansoorovar</p>
+    </footer>
+</body>
+</html>
